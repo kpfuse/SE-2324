@@ -1,13 +1,12 @@
 Куда сдать лабораторную работу 02 <br>
-<br>
-
+https://classroom.github.com/a/xnGzb59L<br><br>
 Лабораторная работа 02. <br>
+https://drive.google.com/file/d/1qYqhw-DwXH0a5WQf3atN8HpTN8ZsMAbD/view?usp=sharing
 <br>
-
+<hr>
 Куда сдать лабораторную работу 01 <br>
 https://classroom.github.com/a/rV4CiMcG <br>
 <br>
------------------------
 
 Лабораторная работа 01. <br>
 https://drive.google.com/file/d/1TseqvLT_BgqcJ9uXPFfBtnLSlzVU5oAV/view?usp=drive_link
